@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f1216;
+  color: #eaeef7;
+  margin: 0;
+}
+
+.nav {
+  background: #141922;
+  padding: 10px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+.hero {
+  padding: 50px;
+  text-align: center;
+}
+
+.btn {
+  padding: 10px 15px;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.btn.primary {
+  background: #22c55e;
+  color: #fff;
+}
+
+.btn.ghost {
+  border: 1px solid #22c55e;
+  color: #22c55e;
+}
+
+.section {
+  padding: 40px;
+}
+
+.section.alt {
+  background: #141922;
+}
+
+.card {
+  background: #1f2630;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.footer {
+  background: #141922;
+  text-align: center;
+  padding: 15px;
+}
